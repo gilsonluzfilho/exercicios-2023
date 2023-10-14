@@ -1,0 +1,77 @@
+.info {
+  display: flex;
+  padding-top: 1.5rem;
+}
+
+.info .info-title {
+  width: 75rem;
+  height: 5.4rem;
+  margin: 0 4rem;
+}
+
+.info .info-title h2 {
+  font: 900 2rem Roboto, sans-serif;
+  line-height: 2.5rem;
+  color: var(--cor-de-destaque);
+  letter-spacing: 1px;
+}
+
+.info .icons {
+  width: 24rem;
+  height: 7rem;
+  margin-left: 4.5rem;
+
+  display: flex;
+
+  position: relative;
+}
+
+.info .icons a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 1.2rem 0.5rem 2.5rem;
+
+  font: 500 1.6rem Roboto, sans-serif;
+  color: white;
+  background: var(--cor-de-destaque);
+
+  border-radius: 4px;
+  border: 1px solid rgba(0, 0, 0, 0);
+}
+
+.info .icons .export {
+  position: absolute;
+  left: 2%;
+  top: 10%;
+}
+
+.info .icons .star {
+  padding: 0.7rem 1.5rem;
+  background: var(--cor-de-destaque);
+  border-radius: 4px;
+
+  position: absolute;
+  right: 32%;
+  bottom: 56%;
+}
+
+.info .icons .doi {
+  padding: 0.6rem 1.5rem;
+  background: var(--cor-de-destaque);
+  border-radius: 4px;
+
+  position: absolute;
+  left: 70%;
+  top: 0;
+}
+
+.info .icons .quote {
+  font: 500 1.4rem Roboto, sans-serif;
+  color: var(--cor-de-destaque);
+  line-height: 2.5rem;
+  letter-spacing: 0.7px;
+
+  position: absolute;
+  top: 50%;
+}

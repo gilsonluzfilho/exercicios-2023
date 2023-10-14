@@ -27,7 +27,8 @@
             "styles": [
               "src/styles.scss",
               "src/sidebar.scss",
-              "src/header.scss"
+              "src/header.scss",
+              "src/info.scss"
             ],
             "scripts": ["./src/index.js"]
           },
