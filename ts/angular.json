@@ -28,7 +28,8 @@
               "src/styles.scss",
               "src/sidebar.scss",
               "src/header.scss",
-              "src/info.scss"
+              "src/info.scss",
+              "src/video.scss"
             ],
             "scripts": ["./src/index.js"]
           },

@@ -1,0 +1,66 @@
+.video-session {
+  display: flex;
+  border-radius: 3px;
+  margin-left: 4rem;
+}
+
+.video-session .frame {
+  width: 78.3rem;
+  height: 43.9rem;
+
+  border-radius: 3px;
+  background: rgba(141, 53, 6, 1);
+  position: relative;
+}
+
+.video-session .frame .frame-img {
+  width: 78.3rem;
+  height: 43.9rem;
+
+  opacity: 0.6;
+}
+
+.video-session .frame .frame-title {
+  width: 73.4rem;
+  height: 5.4rem;
+
+  font: 900 2.4rem Roboto, sans-serif;
+  color: #fff;
+  line-height: 2.5rem;
+  letter-spacing: 0.12rem;
+
+  position: absolute;
+  top: 8%;
+  left: 4%;
+}
+
+.video-session .frame .video-profile-image {
+  border-radius: 50%;
+  border: 1px solid var(--cor-de-destaque);
+
+  position: absolute;
+  bottom: 12%;
+  left: 4%;
+}
+
+.video-session .frame .teacher-name {
+  font: 900 3.4rem Roboto, sans-serif;
+  color: #fff;
+  line-height: 2.5rem;
+  letter-spacing: 0.17rem;
+
+  position: absolute;
+  top: 73%;
+  left: 16%;
+}
+
+.video-session .frame .university-name {
+  color: #fff;
+  font: 900 2rem Roboto, sans-serif;
+  line-height: 2.5rem;
+  letter-spacing: 0.1rem;
+
+  position: absolute;
+  top: 80%;
+  left: 16%;
+}
