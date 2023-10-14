@@ -31,7 +31,8 @@
               "src/info.scss",
               "src/video.scss",
               "src/details.scss",
-              "src/summary.scss"
+              "src/summary.scss",
+              "src/discussions.scss"
             ],
             "scripts": ["./src/index.js"]
           },
