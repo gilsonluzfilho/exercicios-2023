@@ -1,0 +1,54 @@
+.hidden-card-content {
+  width: 102.8rem;
+  padding: 1rem 2rem;
+  border: 1px solid #e7e7e7;
+
+  background: #f8f8f8;
+}
+
+.hidden-card-content h5 {
+  width: 54.2599rem;
+  color: #5c5c5c;
+
+  font-family: Quicksand;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.hidden-card-content p {
+  width: 98.1624rem;
+  color: #4d4d4d;
+  margin: 5px 0;
+
+  font-family: Quicksand;
+  font-size: 1.4rem;
+}
+
+.hidden-card-content h4 {
+  color: #ed7839;
+
+  font-family: Quicksand;
+  font-size: 1.4rem;
+  font-weight: 700;
+
+  position: absolute;
+  top: 1%;
+  right: 8%;
+}
+
+.hidden-card-content img {
+  font-size: 20px;
+  font-weight: 900;
+
+  position: absolute;
+  top: 9%;
+  right: 3%;
+}
+
+.hidden-card-content {
+  display: none;
+}
+
+#answer-2 {
+  background: #fff;
+}

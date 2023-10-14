@@ -33,7 +33,8 @@
               "src/details.scss",
               "src/summary.scss",
               "src/discussions.scss",
-              "src/footer.scss"
+              "src/footer.scss",
+              "src/hidden-card.scss"
             ],
             "scripts": ["./src/index.js"]
           },
