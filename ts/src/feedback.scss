@@ -1,0 +1,43 @@
+/* feedback dos autores após enviar form */
+.feedback-authors {
+  width: 102.8rem;
+  height: 14.8rem;
+
+  border-radius: 4px;
+  border: 1px solid #e7e7e7;
+  background: #ddd;
+  opacity: 0.9;
+
+  position: absolute;
+  top: 111%;
+  right: 1%;
+  z-index: 2;
+}
+
+.img-feedback {
+  display: block;
+  margin: 3rem auto 0;
+}
+
+.text-feedback {
+  width: 41.4292rem;
+
+  color: #707070;
+  font-family: Quicksand;
+  font-size: 1.6rem;
+  font-weight: 700;
+  text-align: center;
+  margin: 1rem auto;
+}
+
+.edit-topic {
+  width: 12.2123rem;
+  margin: 0 auto;
+
+  color: #ed7839;
+
+  text-align: center;
+  font-family: Roboto;
+  font-size: 1.4rem;
+  text-decoration-line: underline;
+}
