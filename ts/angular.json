@@ -30,7 +30,8 @@
               "src/header.scss",
               "src/info.scss",
               "src/video.scss",
-              "src/details.scss"
+              "src/details.scss",
+              "src/summary.scss"
             ],
             "scripts": ["./src/index.js"]
           },
