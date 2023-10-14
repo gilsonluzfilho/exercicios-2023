@@ -1,0 +1,61 @@
+/* preencher tópico oculto */
+.fill-topic {
+  width: 102.8rem;
+  margin: 0 auto;
+}
+
+.fill-topic h3,
+h4 {
+  font: 700 1.6rem Roboto, sans-serif;
+  color: var(--cor-de-destaque);
+  margin-top: 1rem;
+}
+
+.fill-topic .subject {
+  width: 102.5515rem;
+  height: 3.9rem;
+
+  border-radius: 3px;
+  border: 1px solid #ccc;
+}
+
+.fill-topic .input-conteudo {
+  width: 102.5518rem;
+  height: 7rem;
+
+  border-radius: 3px 3px 0 0;
+  border: 1px solid #ccc;
+}
+
+.fill-topic input::placeholder {
+  padding: 2rem;
+}
+
+.fill-topic #barra-input {
+  width: 102.5518rem;
+  height: 3.1rem;
+  margin-bottom: 10px;
+
+  border-radius: 0px 0px 4px 4px;
+  border: 1px solid #ccc;
+  background: #eaf1f2;
+
+  pointer-events: none;
+  position: relative;
+}
+
+.fill-topic #button-enviar {
+  width: 20.5104rem;
+  height: 3.1rem;
+
+  font: 700 1.5rem/1.6rem Quicksand;
+  color: #fff;
+  border: none;
+  border-radius: 0px 0px 4px 0px;
+  background: linear-gradient(180deg, #feb154 0%, #f1833e 100%);
+
+  cursor: pointer;
+
+  position: absolute;
+  right: 1.4%;
+}

@@ -34,7 +34,8 @@
               "src/summary.scss",
               "src/discussions.scss",
               "src/footer.scss",
-              "src/hidden-card.scss"
+              "src/hidden-card.scss",
+              "src/fill-topic.scss"
             ],
             "scripts": ["./src/index.js"]
           },
