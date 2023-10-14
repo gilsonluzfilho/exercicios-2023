@@ -29,7 +29,8 @@
               "src/sidebar.scss",
               "src/header.scss",
               "src/info.scss",
-              "src/video.scss"
+              "src/video.scss",
+              "src/details.scss"
             ],
             "scripts": ["./src/index.js"]
           },

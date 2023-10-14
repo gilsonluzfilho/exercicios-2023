@@ -1,0 +1,75 @@
+.details {
+  width: 24.2rem;
+  height: 43.9rem;
+  margin-left: 2.7rem;
+
+  border-radius: 3px;
+  border: 1px solid #ececec;
+}
+
+.details .title {
+  width: 24.2rem;
+  height: 4.5rem;
+
+  border-radius: 3px 3px 0px 0px;
+  border: 1px solid #ececec;
+  background: #fdf1eb;
+}
+
+.details .title h3 {
+  margin: 1rem 0px 1rem 1.5rem;
+
+  font: 500 2rem Roboto, sans-serif;
+  color: #4e4e4e;
+}
+
+.details .poster {
+  height: 9.3rem;
+  margin: 1rem 0px 0px 1.5rem;
+
+  font-family: Quicksand;
+  font-size: 1.2rem;
+  color: #5c5c5c;
+  line-height: 120%;
+  letter-spacing: 0.24px;
+
+  border-right: 3px solid #bfbfbf;
+}
+
+.details .authors {
+  padding: 0px 0px 0px 1.5rem;
+
+  font-family: Quicksand;
+  font-size: 1.4rem;
+  line-height: 120%;
+  letter-spacing: 0.28px;
+  color: #5c5c5c;
+
+  border-right: 3px solid #bfbfbf;
+}
+
+.details .universities {
+  padding: 4rem 0px 1rem 1.5rem;
+
+  font-family: Quicksand;
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  letter-spacing: 0.24px;
+  color: #ada0a0;
+
+  border-right: 3px solid #e7e7e7;
+}
+
+.details .bold {
+  font: 700 1.2rem Quicksand, sans-serif;
+  line-height: 120%;
+  letter-spacing: 0.24px;
+  color: black;
+}
+
+.authors > p > b.bold {
+  font: 700 1.4rem Quicksand, sans-serif;
+  line-height: 120%;
+  letter-spacing: 0.24px;
+  color: black;
+}
