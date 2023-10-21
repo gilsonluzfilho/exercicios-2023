@@ -3,7 +3,7 @@ name: ts
 on:
   push:
     paths:
-      - "../ts/**"
+      - "ts/**"
 
 jobs:
   build:
