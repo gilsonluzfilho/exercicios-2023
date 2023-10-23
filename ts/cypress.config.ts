@@ -1,4 +1,4 @@
-import { defineConfig } from "cypress";
+import { defineConfig } from 'cypress';
 const getCompareSnapshotsPlugin = require('cypress-visual-regression/dist/plugin');
 
 export default defineConfig({
@@ -12,8 +12,8 @@ export default defineConfig({
     runMode: 0,
     openMode: 0,
   },
-  viewportWidth: 1280,
-  viewportHeight: 800,
+  viewportWidth: 1366,
+  viewportHeight: 768,
   e2e: {
     setupNodeEvents(on, config) {
       getCompareSnapshotsPlugin(on, config);
